@@ -1,0 +1,16 @@
+body {
+	max-width: 85%;
+	margin:auto;
+}
+th {
+	padding-right:5px;
+}
+td{
+	padding-right:10px;
+	text-align: center;
+}
+td.archived{
+	text-decoration: line-through;
+	color:#BCBCBC;
+	text-align: left;
+}
