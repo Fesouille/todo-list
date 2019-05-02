@@ -1,16 +1,54 @@
-body {
-	max-width: 85%;
-	margin:auto;
+.expired{
+	background-color: red;
+	color: yellow;
 }
-th {
-	padding-right:5px;
-}
-td{
-	padding-right:10px;
-	text-align: center;
-}
-td.archived{
+.archived{
 	text-decoration: line-through;
 	color:#BCBCBC;
-	text-align: left;
+}
+.dragdrop:hover{
+	cursor: grab;
+}
+.dragdrop:active{
+	cursor: grabbing;
+}
+[type=checkbox]:hover{
+	cursor: pointer;
+}
+#submit_button{
+	position: absolute;
+	bottom: 0;
+}
+.btn-circle {
+    width: 22px;
+    height: 22px;
+    padding: 0px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 1.42857;
+}
+#btn-delete{
+    width: 40px;
+    height: 22px;
+    padding: 0px 0px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 1.42857;
+}
+#item{
+	width: 75%;
+	min-width: 170px;
+}
+.delete-col{
+	padding-left: 0px;
+	padding-right: 0px;
+	background-color:white;
+}
+.check-col{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.table-title{
+	font-weight: bold;
 }
