@@ -16,6 +16,11 @@ function select_all(){
 	document.querySelector("#checkAll").addEventListener("click", function(){
 	    var checkValue=document.querySelector("#checkAll").checked;
 	    var checkItemBox=document.querySelectorAll(".checkItem");
+	    console.log(checkValue);
+	    //the button does not really archive all tasks. This alert warns the user.
+	    if(checkValue==true){
+	        alert("I do not believe you made them all. Finish one after the other please.");
+	    }
 	    checkItemBox.forEach(function(element, index){
 	        element.checked=checkValue;
 	    });
