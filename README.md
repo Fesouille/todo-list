@@ -4,11 +4,11 @@ My first Todo List
 Project of [Ismail Joseph](https://github.com/Fesouille)
 ----------------------------------
 
-*Project realized from the 1 april 2019 to 3 april 2019 for the formation [BeCode](https://www.becode.org/) to be a Web Developper*
+*Project realized from the 1 april 2019 to 3 april 2019 for the formation [BeCode](https://www.becode.org/) to be a Web Developper.*
 
 
 * Project:
-I have to create a basic but reliable todo list separated as "tasks to do" and "archived tasks." The list has to be managed via a database.
+I have to create a basic but reliable todo list. The list has to be managed via a database.
 
 * Content:
 	* PHP file: handles the access to the database and displays the required data.
@@ -28,11 +28,11 @@ I have to create a basic but reliable todo list separated as "tasks to do" and "
 	* CDN: to access bootstrap library and better manage the layout of the website.
 
 * Progress Opportunities:
-  * Managing the expiring state directly in the database (it is currently done only via javascript.
+  * Managing the expiring state directly in the database (it is currently done only via javascript).
   * The general style (layout, colors, ...).
 
 * Try it out ! :
-	* [NewWiki](https://joseph.webtech.one/todo-list/)
+	* [Todo List](https://joseph.webtech.one/todo-list/)
 
 * A few illustrating pictures:
 ![Screenshot 1 NewWiki](img/screenshot1.png)
