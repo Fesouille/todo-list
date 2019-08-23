@@ -4,7 +4,6 @@ My first Todo List
 Project of [Ismail Joseph](https://github.com/Fesouille)
 ----------------------------------
 
-*Project realized from the 1 april 2019 to 3 april 2019 for the formation [BeCode](https://www.becode.org/) to be a Web Developper.*
 
 
 * Project:
@@ -37,8 +36,3 @@ I have to create a basic but reliable todo list. The list has to be managed via 
 * A few illustrating pictures:
 ![Screenshot 1 NewWiki](img/screenshot1.png)
 ![Screenshot 2 NewWiki](img/screenshot2.png)
-
-
-* Progress: 
-	* 01 april 2019: project beginning.
-	* 03 april 2019: project end.
